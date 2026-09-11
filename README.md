@@ -1,4 +1,4 @@
-<h1>Group name: [???]</h1>h1>
+<h1>Group name: [???]</h1>
 
 <div class="two-columns">
   <div>
