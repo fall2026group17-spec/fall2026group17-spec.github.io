@@ -27,3 +27,8 @@
 
 <h2>Assignment 4:</h2>
 <p>[not started]</p>
+
+<h2>Resources</h2>
+
+<h2>Official Documentation:</h2>
+<p><a href="https://wezterm.org/">WezTerm Official Documentation</a></p>
