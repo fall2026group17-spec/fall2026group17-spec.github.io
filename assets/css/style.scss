@@ -12,8 +12,9 @@ header {
   float: none;
   position: static;
   text-align: center;
-  background-color: #444
+  background-color: #666
 }
+
   
 section {
   width: 100%;
@@ -21,6 +22,15 @@ section {
   position: static;
   text-align: left;
 }
+
+section h1 {
+  background-color: #aaa
+}
+
+section h2 {
+  background-color: #eee
+}
+
 
 footer {
 
