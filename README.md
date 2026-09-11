@@ -1,8 +1,15 @@
-Group name: [???]
-Group members:
+# Group name: [???]
+
+# Group members:
+
 [aaaaaaaaaaa]
+
 [bbbbbbbbbbb]
+
 [ccccccccccc]
+
 [ddddddddddd]
+
 [eeeeeeeeeee]
+
 [fffffffffff]
