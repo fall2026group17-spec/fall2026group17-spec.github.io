@@ -1,4 +1,4 @@
-<h1>Group name: [???]</h1>
+<h1>Group name: We Can Fly</h1>
 
 <h2>Instructor:</h2>
 <p>Bram Adams</p>
