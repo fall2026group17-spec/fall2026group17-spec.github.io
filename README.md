@@ -2,8 +2,10 @@
 
 <div class="two-columns">
   <div>
-    <h2>instructor:</h2>
+    <h2>Instructor:</h2>
     <p>[zzzzzzzzzzz]</p>
+    <h2>Teaching Assistant:</h2>
+    <p>[yyyyyyyyyyy]</p>
   </div>
   <div>
     <h2>Group members:</h2>
