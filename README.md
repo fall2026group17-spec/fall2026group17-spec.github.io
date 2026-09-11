@@ -14,3 +14,14 @@
 <p>[eeeeeeeeeee]</p>
 <p>[fffffffffff]</p>
 
+<h2>Assignment 1:</h2>
+<p>[not started]</p>
+
+<h2>Assignment 2:</h2>
+<p>[not started]</p>
+
+<h2>Assignment 3:</h2>
+<p>[not started]</p>
+
+<h2>Assignment 4:</h2>
+<p>[not started]</p>
