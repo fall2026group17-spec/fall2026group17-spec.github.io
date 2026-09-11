@@ -7,12 +7,12 @@
 <p>[tba]</p>
   
 <h2>Group members:</h2>
-<p>Bei Lin</p>
-<p>Hongtian Zhao</p>
-<p>Krystal Sun</p>
-<p>Kylin Jin</p>
-<p>Lingwei Huang</p>
-<p>Yun Zhang</p>
+<p>Bei Lin — Presenter</p>
+<p>Hongtian Zhao — Group Member</p>
+<p>Krystal Sun — Group Member</p>
+<p>Kylin Jin — Presenter</p>
+<p>Lingwei Huang — Group Member</p>
+<p>Yun Zhang — Group Leader</p>
 
 <h1>Group Assignment</h1>
 
