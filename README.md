@@ -32,4 +32,17 @@
 
 <p><a href="https://wezterm.org/what-is-a-terminal.html">What's a terminal</a></p>
 
-<p><a href="https://github.com/wezterm/wezterm">What's a terminal</a></p>
+<p><a href="https://github.com/wezterm/wezterm">Source Code</a></p>
+
+<h2>Major Competitors:</h2>
+<p>
+  <a href="https://ghostty.org/">
+    Ghostty
+  </a>
+</p>
+
+<p>
+  <a href="https://sw.kovidgoyal.net/kitty/">
+    Kitty
+  </a>
+</p>
