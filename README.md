@@ -30,5 +30,6 @@
 
 <h2>Resources</h2>
 
-<h2>WezTerm Overview:</h2>
 <p><a href="https://wezterm.org/what-is-a-terminal.html">What's a terminal</a></p>
+
+<p><a href="https://github.com/wezterm/wezterm">What's a terminal</a></p>
