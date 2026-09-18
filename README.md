@@ -58,3 +58,11 @@
     Kitty
   </a>
 </p>
+
+<h2>Demo Video:</h2>
+<p>
+  <a href="https://www.youtube.com/watch?v=kYBvkzwM8Iw">
+    WezTerm in Action
+  </a>
+  - A video demonstration showing WezTerm in use.
+</p>
