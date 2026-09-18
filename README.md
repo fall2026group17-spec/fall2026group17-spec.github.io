@@ -28,7 +28,7 @@
 <h2>Assignment 4:</h2>
 <p>[not started]</p>
 
-<h2>Resources</h2>
+<h1>Resources</h1>
 
 <h2>WezTerm Overview:</h2>
 <p>
