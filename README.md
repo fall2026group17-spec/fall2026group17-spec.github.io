@@ -30,9 +30,21 @@
 
 <h2>Resources</h2>
 
-<p><a href="https://wezterm.org/what-is-a-terminal.html">What's a terminal</a></p>
+<h2>WezTerm Overview:</h2>
+<p>
+  <a href="https://wezterm.org/what-is-a-terminal.html">
+    What is a Terminal?
+  </a>
+  - An introduction to terminal emulators and the role of WezTerm.
+</p>
 
-<p><a href="https://github.com/wezterm/wezterm">Source Code</a></p>
+<h2>Source Code:</h2>
+<p>
+  <a href="https://github.com/wezterm/wezterm">
+    WezTerm GitHub Repository
+  </a>
+  - The official source code repository for WezTerm.
+</p>
 
 <h2>Major Competitors:</h2>
 <p>
