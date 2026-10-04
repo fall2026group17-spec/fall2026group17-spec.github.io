@@ -4,7 +4,7 @@
 <p>Bram Adams</p>
 
 <h2>Teaching Assistant:</h2>
-<p>[tba]</p>
+<p>Mahmoud Ayyad</p>
   
 <h2>Group members:</h2>
 <p>Bei Lin — Presenter</p>
