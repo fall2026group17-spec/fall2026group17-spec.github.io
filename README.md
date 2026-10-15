@@ -1,72 +1,91 @@
-<h1>Group name: We Can Fly</h1>
+<div class="hero">
+  <p class="eyebrow">CISC 322/326 · Fall 2026 · Group 17</p>
+  <h1>We Can Fly</h1>
+  <p class="hero-copy">Exploring the conceptual and concrete architecture of WezTerm, a cross-platform terminal emulator and multiplexer.</p>
+  <nav class="page-nav" aria-label="Page navigation">
+    <a href="#team">Team</a>
+    <a href="#deliverables">Deliverables</a>
+    <a href="#resources">Resources</a>
+  </nav>
+</div>
 
-<h2>Instructor:</h2>
-<p>Bram Adams</p>
+<section id="team" class="content-section">
+  <div class="section-heading">
+    <p class="section-kicker">Our team</p>
+    <h2>Group members</h2>
+  </div>
 
-<h2>Teaching Assistant:</h2>
-<p>Mahmoud Ayyad</p>
-  
-<h2>Group members:</h2>
-<p>Bei Lin — Presenter</p>
-<p>Hongtian Zhao — Group Member</p>
-<p>Krystal Sun — Group Member</p>
-<p>Kylin Jin — Presenter</p>
-<p>Lingwei Huang — Group Member</p>
-<p>Yun Zhang — Group Leader</p>
+  <div class="team-grid">
+    <div class="member member-lead"><strong>Yun Zhang</strong><span>Group Leader</span></div>
+    <div class="member member-presenter"><strong>Bei Lin</strong><span>Presenter</span></div>
+    <div class="member member-presenter"><strong>Kylin Jin</strong><span>Presenter</span></div>
+    <div class="member"><strong>Hongtian Zhao</strong><span>Group Member</span></div>
+    <div class="member"><strong>Krystal Sun</strong><span>Group Member</span></div>
+    <div class="member"><strong>Lingwei Huang</strong><span>Group Member</span></div>
+  </div>
 
-<h1>Group Assignment</h1>
+  <div class="course-team">
+    <p><strong>Instructor</strong><br>Bram Adams</p>
+    <p><strong>Teaching Assistant</strong><br>Mahmoud Ayyad</p>
+  </div>
+</section>
 
-<h2>Assignment 1: Conceptual Architecture</h2>
-<ul>
-  <li><a href="deliverables/A1/A1_Conceptual_Architecture_Report.pdf">Conceptual Architecture Report (PDF)</a></li>
-  <li><a href="deliverables/A1/A1_Conceptual_Architecture_Slides.pptx">Presentation Slides (PowerPoint)</a></li>
-  <li><a href="https://youtu.be/BeAer5_p0Yg">Recorded Presentation Video</a></li>
-</ul>
+<section id="deliverables" class="content-section">
+  <div class="section-heading">
+    <p class="section-kicker">Course project</p>
+    <h2>Deliverables</h2>
+  </div>
 
-<h2>Assignment 2:</h2>
-<p>[not started]</p>
+  <article class="deliverable featured">
+    <div>
+      <span class="status published">Published</span>
+      <h3>A1: Conceptual Architecture</h3>
+      <p>Our documentation-based model of WezTerm's major subsystems, responsibilities, interfaces, data flow, and noteworthy use cases.</p>
+    </div>
+    <div class="deliverable-links">
+      <a class="button primary" href="deliverables/A1/A1_Conceptual_Architecture_Report.pdf">Read the report</a>
+      <a class="button" href="deliverables/A1/A1_Conceptual_Architecture_Slides.pptx">Download slides</a>
+      <a class="button" href="https://youtu.be/BeAer5_p0Yg">Watch presentation</a>
+    </div>
+  </article>
 
-<h2>Assignment 3:</h2>
-<p>[not started]</p>
+  <div class="upcoming-grid">
+    <article class="deliverable compact">
+      <span class="status upcoming">Upcoming</span>
+      <h3>A2: Concrete Architecture</h3>
+      <p>Source-based architecture recovery and comparison with our conceptual model.</p>
+    </article>
+    <article class="deliverable compact">
+      <span class="status upcoming">Upcoming</span>
+      <h3>A3: Architectural Enhancement</h3>
+      <p>An enhancement proposal supported by architectural alternatives and analysis.</p>
+    </article>
+  </div>
+</section>
 
-<h2>Assignment 4:</h2>
-<p>[not started]</p>
+<section id="resources" class="content-section">
+  <div class="section-heading">
+    <p class="section-kicker">Explore the project</p>
+    <h2>WezTerm resources</h2>
+  </div>
 
-<h1>Resources</h1>
+  <div class="resource-list">
+    <a href="https://wezterm.org/what-is-a-terminal.html">
+      <strong>What is a Terminal?</strong>
+      <span>An introduction to terminal emulators and the role of WezTerm.</span>
+    </a>
+    <a href="https://github.com/wezterm/wezterm">
+      <strong>WezTerm source code</strong>
+      <span>The official GitHub repository.</span>
+    </a>
+    <a href="https://www.youtube.com/watch?v=kYBvkzwM8Iw">
+      <strong>WezTerm in action</strong>
+      <span>A video demonstration of WezTerm.</span>
+    </a>
+  </div>
 
-<h2>WezTerm Overview:</h2>
-<p>
-  <a href="https://wezterm.org/what-is-a-terminal.html">
-    What is a Terminal?
-  </a>
-  - An introduction to terminal emulators and the role of WezTerm.
-</p>
+  <h3 class="minor-heading">Related terminal projects</h3>
+  <p class="text-links"><a href="https://ghostty.org/">Ghostty</a><a href="https://sw.kovidgoyal.net/kitty/">Kitty</a></p>
+</section>
 
-<h2>Source Code:</h2>
-<p>
-  <a href="https://github.com/wezterm/wezterm">
-    WezTerm GitHub Repository
-  </a>
-  - The official source code repository for WezTerm.
-</p>
-
-<h2>Major Competitors:</h2>
-<p>
-  <a href="https://ghostty.org/">
-    Ghostty
-  </a>
-</p>
-
-<p>
-  <a href="https://sw.kovidgoyal.net/kitty/">
-    Kitty
-  </a>
-</p>
-
-<h2>Demo Video:</h2>
-<p>
-  <a href="https://www.youtube.com/watch?v=kYBvkzwM8Iw">
-    WezTerm in Action
-  </a>
-  - A video demonstration showing WezTerm in use.
-</p>
+<p class="last-updated">Last updated: October 15, 2026</p>
