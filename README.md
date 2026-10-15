@@ -7,9 +7,9 @@
 
 <h2>Group Members</h2>
 <ul class="members">
-  <li><strong>Yun Zhang</strong> <span>Group Leader</span></li>
-  <li><strong>Bei Lin</strong> <span>Presenter</span></li>
-  <li><strong>Kylin Jin</strong> <span>Presenter</span></li>
+  <li>Yun Zhang <span>Group Leader</span></li>
+  <li>Bei Lin <span>Presenter</span></li>
+  <li>Kylin Jin <span>Presenter</span></li>
   <li>Hongtian Zhao <span>Group Member</span></li>
   <li>Krystal Sun <span>Group Member</span></li>
   <li>Lingwei Huang <span>Group Member</span></li>
@@ -18,7 +18,6 @@
 <h2>Course Deliverables</h2>
 
 <h3>A1: Conceptual Architecture</h3>
-<p class="status">Published</p>
 <ul>
   <li><a href="deliverables/A1/A1_Conceptual_Architecture_Report.pdf">Conceptual Architecture Report (PDF)</a></li>
   <li><a href="deliverables/A1/A1_Conceptual_Architecture_Slides.pptx">Presentation Slides (PowerPoint)</a></li>
