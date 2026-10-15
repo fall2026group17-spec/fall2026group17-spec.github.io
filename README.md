@@ -16,8 +16,12 @@
 
 <h1>Group Assignment</h1>
 
-<h2>Assignment 1:</h2>
-<p>[not started]</p>
+<h2>Assignment 1: Conceptual Architecture</h2>
+<ul>
+  <li><a href="deliverables/A1/A1_Conceptual_Architecture_Report.pdf">Conceptual Architecture Report (PDF)</a></li>
+  <li><a href="deliverables/A1/A1_Conceptual_Architecture_Slides.pptx">Presentation Slides (PowerPoint)</a></li>
+  <li><a href="https://youtu.be/BeAer5_p0Yg">Recorded Presentation Video</a></li>
+</ul>
 
 <h2>Assignment 2:</h2>
 <p>[not started]</p>
